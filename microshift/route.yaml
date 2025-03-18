@@ -1,0 +1,12 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: microshift-app
+spec:
+  to:
+    kind: Service
+    name: microshift-app
+  port:
+    targetPort: 8080
+  tls:
+    termination: edge
