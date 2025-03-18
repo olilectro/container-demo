@@ -116,6 +116,12 @@ Have fun microshifting.
 
 ### Further Reading on MicroShift, Containers and OSTree
 
+- [Meet Red Hat Device Edge with MicroShift](https://www.redhat.com/en/blog/meet-red-hat-device-edge-with-microshift)  
+  *Red Hat blog post demonstrating the workflow of building a zero-touch Red Hat Device Edge image with MicroShift.*
+
+- [Embedding Red Hat build of MicroShift in a RHEL for Edge image](https://docs.redhat.com/en/documentation/red_hat_build_of_microshift/4.12/html/installing/microshift-embed-in-rpm-ostree)  
+  *Official Red Hat documentation on embedding MicroShift into a RHEL for Edge image.*
+
 - [Red Hat build of MicroShift 4.18 Documentation](https://docs.redhat.com/en/documentation/red_hat_build_of_microshift/4.18)  
   *Official documentation covering installation, configuration, and best practices for MicroShift.*
 
